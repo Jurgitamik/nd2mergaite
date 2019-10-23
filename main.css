@@ -1,0 +1,42 @@
+main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+
+}
+#kaire {
+    background-color: #89C069;
+    width: 50%;
+    height: 800px;
+    display: inline-block;
+    float: left;
+}
+
+#centras {
+    background-color: aqua;
+    position: absolute;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10%;
+
+}
+img {
+    height: 100%;
+    width: 50%;
+    margin-left: 50%;
+}
+
+#desine {
+    background-color: white;
+    width: 50%;
+    height: 800px;
+    display: inline-block;
+    float: left;
+}
+h1 {
+    display: inline-block;
+    width: 100%;
+    font-size: 80px;
+    margin: 0;
+    margin-bottom: 20px;
+}
